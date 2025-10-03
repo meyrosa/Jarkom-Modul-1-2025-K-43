@@ -66,7 +66,7 @@ dan ```ping gogle.com -c 5```
    
 <img width="672" height="376" alt="image" src="https://github.com/user-attachments/assets/ab881c6f-7c48-4dbc-a983-f77ac3937ee1" />
 
-5. Eru ignin agar client tersambung ke internet
+4. Eru ingin agar client tersambung ke internet
    1. jalankan ```iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE -s 10.85.0.0/16``` di Eru
    2. ```echo "nameserver 192.168.122.1" > /etc/resolv.conf``` set namaserver di masing-masing client
    3. ```ping google.com -c 5``` Pengecekan koneksi internet dari masing-masing Client
