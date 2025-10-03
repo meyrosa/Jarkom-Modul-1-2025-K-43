@@ -60,7 +60,7 @@ dan ```ping gogle.com -c 5```
 
 <img width="650" height="416" alt="Screenshot 2025-09-30 193420" src="https://github.com/user-attachments/assets/4fc518df-84d0-448e-8d13-fd302e9243a5" />
 
-3. Client dapat terhubung satu sama lain dengan melakukan ```ping```
+3. Client dapat terhubung satu sama lain dengan mengatur IP-nya , lalu test dengan melakukan ```ping```
    
    contoh ```ping 10.85.2.2```  ->Dari Melkor ke Varda
    
