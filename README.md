@@ -11,7 +11,24 @@
 1. Membuat entitas seperti yang di gambar dan membuat keempat ainur menjadi client dengan:
 
    - Set IP statis sesuai switch/gateway
-  
+router/Eru
+```
+auto eth0
+iface eth0 inet dhcp
+
+auto eth1
+iface eth1 inet static
+      address 10.85.1.1
+      netmask 255.255.255.0
+
+auto eth2
+iface eth2 inet static
+      address 10.85.2.1
+      netmask 255.255.255.0
+```
+
+client
+
 Melkor
 ```
 auto eth0
