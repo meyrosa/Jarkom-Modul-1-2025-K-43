@@ -11,6 +11,7 @@
 1. Membuat entitas seperti yang di gambar dan membuat keempat ainur menjadi client dengan:
 
    - Set IP statis sesuai switch/gateway
+
 router/Eru
 ```
 auto eth0
