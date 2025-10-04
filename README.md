@@ -95,6 +95,12 @@ dan ```ping gogle.com -c 5```
 <img width="894" height="542" alt="image" src="https://github.com/user-attachments/assets/219bd228-e225-42eb-8439-0da4081a7422" />
 
 
+# revisi
+
+6.  melakukan packet sniffing menggunakan Wireshark pada koneksi antara Manwe dan Eru
+    1. download file dan jalankan ``./traffic.sh```
+<img width="791" height="558" alt="image" src="https://github.com/user-attachments/assets/89565239-bba8-44f0-b82c-51b9ab00c96c" />
+
 
 
 
